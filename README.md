@@ -1,4 +1,4 @@
-# Online Bus Ticket Management System
+# Bus Ticket Management Simulator
 
 A Java-based desktop/console application for searching routes, checking ticket fares, and managing bus reservation schedules backed by a relational MySQL database. Developed as part of the Object-Oriented Software Engineering coursework.
 
@@ -16,7 +16,7 @@ This project provides an automated system for handling inter-city bus route sche
 
 ---
 
-## 🛠️ Tech Stack & Prerequisites
+## 🛠️ Tech Stack Used
 
 * **Programming Language:** Java (JDK 17 or higher)
 * **Database:** MySQL Server 8.0+ / 9.0+
